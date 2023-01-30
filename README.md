@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Cloud Computing and SQL**
 
-- 📫 How to reach me **rene.lopes1@gmail.**
+- 📫 How to reach me **rene.lopes1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
